@@ -1,7 +1,0 @@
-typing-extensions==4.5.0
-tensorflow[and-cuda]
-keras
-numpy
-scikit-learn
-pandas
-matplotlib

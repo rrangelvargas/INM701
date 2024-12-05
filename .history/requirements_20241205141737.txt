@@ -1,6 +1,0 @@
-tensorflow-gpu
-keras
-numpy
-scikit-learn
-pandas
-matplotlib
